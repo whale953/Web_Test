@@ -1,5 +1,5 @@
 # Web_Test
-:beers::beers: some project in web learning
+:beers::beers: some projects in Web learning
 
 目录及简介：
 
